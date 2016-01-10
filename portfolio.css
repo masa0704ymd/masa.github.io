@@ -1,0 +1,9 @@
+body{
+    font-family:"ヒラギノ角ゴ Pro W3","メイリオ",sans-serif;
+    background-color: #ddd;
+    font-size:14px;
+}
+nav ul li {
+    margin:0 20px;
+    display:inline-block;
+}
